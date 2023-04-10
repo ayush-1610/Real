@@ -1,2 +1,2 @@
 # Real Estate Price Prediction - Housing in Brazil
-- with intaractive dshboard
+with intaractive dashboard
